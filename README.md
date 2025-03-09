@@ -4,7 +4,7 @@
 
 <br>To run this project clone this repository:
 ```bash
-git clone
+git clone https://github.com/blkpvnthr/Slight-Dynamic.git
 ```
  be sure you have jupyter installed on your system then run this from your command line:</br>
 
