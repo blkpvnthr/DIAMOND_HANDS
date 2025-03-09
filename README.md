@@ -2,10 +2,14 @@
 
 ![Stock Analysis](image/stock.gif)
 
-<br>To run this project be sure you have jupyter installed on your system then run this from your command line:</br>
+<br>To run this project clone this repository:
+```bash
+git clone
+```
+ be sure you have jupyter installed on your system then run this from your command line:</br>
 
 ```bash
-jupyter notebook
+pip install jupyter
 ```
 
 <br>🚀 **Goal:** Identify **resilient, high-growth stocks** within the **Aerospace & Defense industry** using **data-driven financial analysis**.  
