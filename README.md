@@ -1,5 +1,5 @@
 # Slight-Dynamic
-# 📌 CMSC206 Group Project: Aerospace & Defense Stock Analysis  
+# 📌 CMSC206 Group Project:<br> Aerospace & Defense Stock Analysis  
 
 This repository contains our **CMSC206 Group Project**, which focuses on analyzing **stock price data for aerospace and defense stocks**. Using **Python, Pandas, Matplotlib, and PyPortfolioOpt**, we extract, clean, and visualize stock market data, applying financial indicators such as **SMA, Free Cash Flow Margin, Gross Margin, and Volume Trends** to identify high-performing stocks in the **Aerospace & Defense sector**.  
 
