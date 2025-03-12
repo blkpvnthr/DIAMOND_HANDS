@@ -1,4 +1,4 @@
-<h1>Slight-Dynamic: Aerospace & Defense Stock Analysis📊</h1>
+<h1>Slight-Dynamic: Aerospace & Defense Stock Analysis 📊</h1>
 
 ![Stock Analysis](image/stock.gif)
 
