@@ -60,6 +60,8 @@ pip install -r requirements.txt
 ```
 &nbsp; This will install all the necessary packages provided you have Python installed.
 
+<hr>
+
 ### 4️⃣ &nbsp; Activate the Virtual Environment
 Always activate the project-env virtual environment before running any commands or notebooks.
 For Windows users:
