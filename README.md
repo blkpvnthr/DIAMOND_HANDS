@@ -94,7 +94,6 @@ aerospace.ipynb
 
 ## ⚙️ Technologies Used
 
-| 🧮 Technology      | 📝 Description                   |
 |--------------------|----------------------------------|
 | Python 🐍 (>=3.8)  | Core programming language        |
 | Pandas 🐼          | Data manipulation and analysis   |
