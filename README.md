@@ -21,7 +21,7 @@ We use **Python** along with libraries like **Pandas**, **Matplotlib**, **YFinan
 
 ## Quick Start
 
-### 1️⃣   Clone the Repository
+### 1️⃣  &nbsp; Clone the Repository
 ```bash
 git clone https://github.com/blkpvnthr/Slight-Dynamic.git
 cd Slight-Dynamic
