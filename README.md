@@ -51,7 +51,7 @@ This script will:
 - Create a virtual environment called project-env
 - Install all necessary dependencies
 
-  #### &nbsp;   ✅ Option B: Manual Setup
+#### &nbsp;   ✅ Option B: Manual Setup
 ```bash
 python -m venv project-env
 pip install -r requirements.txt
