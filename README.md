@@ -53,7 +53,8 @@ This script will:
 
 #### ✅ Option B: Manual Setup
 ```bash
-python install -r requirements.txt
+python -m venv project-env
+pip install -r requirements.txt
 ```
 This will install all the necessary packages provided you have Python installed.
 
