@@ -30,7 +30,7 @@ cd Slight-Dynamic
 ### 2️⃣ Python Version Requirement
 ⚠️ This project requires Python 3.8+. Verify your Python version:
 ```bash
-python3 --version
+python --version
 ```
 ### 3️⃣ Install Dependencies
 If you don't have Python 3.8 or higher, install the latest version from the <a href="https://www.python.org/downloads/">Python download</a> page.
