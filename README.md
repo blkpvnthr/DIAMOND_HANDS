@@ -53,7 +53,7 @@ python env_setup.py
 
 # OR
 
-#### &nbsp;   ✅ Option B: Manual Setup
+#### &nbsp; ✅ Option B: Manual Setup
 ```bash
 python -m venv project-env
 pip install -r requirements.txt
@@ -75,7 +75,7 @@ project-env\Scripts\activate
 <hr>
 
 ### 5️⃣ &nbsp; Run Jupyter Notebook
-Once your virtual environment is active, start Jupyter:
+Once your virtual environment is active, start Jupyter by running:
 ```bash
 jupyter notebook
 ```
@@ -88,18 +88,20 @@ aerospace.ipynb
 
 - 📊 **Stock Data Extraction** from Google Sheets & CSV
 - 📈 **Price Trend Analysis** (SMA, Volume Changes)
-- 💰 **Financial Health Filtering** (FCF, Gross Margins)
+- 🔎 **Financial Health Filtering** (FCF, Gross Margins)
 - 📡 **Industry-Specific Insights** (Defense & Aerospace)
-- 📉 **Portfolio Optimization** (Sharpe Ratio & Risk Models)
+- 💸 **Portfolio Optimization** (Sharpe Ratio & Risk Models)
 
-## 🛠 Technologies Used
-✅ Technology	📝 Description
-Python 🐍 (>=3.8)	Core programming language
-Pandas 🏛	Data manipulation and analysis
-Matplotlib 📊	Data visualization
-YFinance 💹	Stock data extraction
-PyPortfolioOpt 📈	Portfolio optimization
-Jupyter 📒	Interactive notebook interface
+## ⚙️ Technologies Used
+
+| 🧮 Technology      | 📝 Description                   |
+|--------------------|----------------------------------|
+| Python 🐍 (>=3.8)  | Core programming language        |
+| Pandas 🐼          | Data manipulation and analysis   |
+| Matplotlib 📊      | Data visualization               |
+| YFinance 💰        | Stock data extraction            |
+| PyPortfolioOpt 📈  | Portfolio optimization           |
+| Jupyter 📚         | Interactive notebook interface   |
 
 ## 👨‍💻 Authors
 
@@ -109,7 +111,7 @@ Parker Link<br>
 Ahmed Sachit<br>
 Alhassane Moulaye<br>
 
-## ⚙️ Additional Notes
+## 🚨 Additional Notes
 Make sure you're using Python 3.8+ for compatibility.
 
 ## License
