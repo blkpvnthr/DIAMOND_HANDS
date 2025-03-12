@@ -48,9 +48,9 @@ Run the env_setup.py script (works on both Windows & Mac/Linux):
 python env_setup.py
 ```
 This script will:
-✅ Check Python version
-✅ Create a virtual environment called project-env
-✅ Install all necessary dependencies
+- ✅ Check Python version
+- ✅ Create a virtual environment called project-env
+- ✅ Install all necessary dependencies
 
 #### ✅ Option B: Manual Setup
 ```bash
