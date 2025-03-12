@@ -47,9 +47,9 @@ You can automatically set up the environment or do it manually.
 python env_setup.py
 ```
 &nbsp; This script will:<br>
-    - Check Python version<br>
-    - Create a virtual environment called project-env<br>
-    - Install all necessary dependencies
+        - Check Python version<br>
+        - Create a virtual environment called project-env<br>
+        - Install all necessary dependencies
 
 # OR
 
