@@ -41,7 +41,7 @@ Use python and pip commands in Command Prompt (cmd.exe) or PowerShell.</em>
 ### 3️⃣ &nbsp;  Environment Setup
 You can automatically set up the environment or do it manually.
 
-- #### &nbsp;  ✅ Option A: Automatic Setup
+#### &nbsp;  ✅ Option A: Automatic Setup
 Run the env_setup.py script (works on both Windows & Mac/Linux):
 ```bash
 python env_setup.py
