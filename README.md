@@ -17,7 +17,7 @@ We use **Python** along with libraries like **Pandas**, **Matplotlib**, **YFinan
 ✅ Visualize stock trends
 ✅ Optimize portfolio allocations
 
----
+
 
 ## Quick Start
 
