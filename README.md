@@ -6,18 +6,16 @@
 Identify **resilient, high-growth stocks** within the **Aerospace & Defense industry** using **data-driven financial analysis**.
 We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **healthy Gross Margins**, and **rising trading volumes**.
 
----
+
 
 ## 📂 Project Overview
 This repository contains our **CMSC206 Group Project**, which analyzes **aerospace and defense stock data** to uncover **high-performing assets**.
 
 We use **Python** along with libraries like **Pandas**, **Matplotlib**, **YFinance**, and **PyPortfolioOpt** to:
-✅ Extract and clean data
-✅ Perform financial filtering
-✅ Visualize stock trends
-✅ Optimize portfolio allocations
-
-
+✅ Extract and clean data<br>
+✅ Perform financial filtering<br>
+✅ Visualize stock trends<br>
+✅ Optimize portfolio allocations<br>
 
 ## Quick Start
 
