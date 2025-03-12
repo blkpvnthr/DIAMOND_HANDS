@@ -27,19 +27,19 @@ git clone https://github.com/blkpvnthr/Slight-Dynamic.git
 cd Slight-Dynamic
 ```
 
-### 2️⃣   Python Version Requirement
+### 2️⃣  &nbsp; Python Version Requirement
 ⚠️ This project requires Python 3.8+. Verify your Python version:
 ```bash
 python --version
 ```
-### 3️⃣   Install Dependencies
+### 3️⃣ &nbsp;  Install Dependencies
 If you don't have Python 3.8 or higher, install the latest version from the <a href="https://www.python.org/downloads/">Python download</a> page.
 
 <em><b>📝 Windows Users❗</b>:
 During installation, make sure to check the box that says “Add Python to PATH”.
 Use python and pip commands in Command Prompt (cmd.exe) or PowerShell.</em>
 
-### 3️⃣   Environment Setup
+### 3️⃣ &nbsp;  Environment Setup
 You can automatically set up the environment or do it manually.
 
 #### ✅ Option A: Automatic Setup
@@ -58,7 +58,7 @@ python install -r requirements.txt
 ```
 This will install all the necessary packages provided you have Python installed.
 
-### 5️⃣ Run Jupyter Notebook
+### 5️⃣ &nbsp; Run Jupyter Notebook
 Once your virtual environment is active, start Jupyter:
 ```bash
 jupyter notebook
