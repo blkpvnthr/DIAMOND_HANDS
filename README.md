@@ -98,7 +98,7 @@ Make sure you're using Python 3.8+ for compatibility.
 Always activate the project-env virtual environment before running any commands or notebooks.
 For Windows users:
 ```bash
-project-env\Scripts\activate.
+project-env\Scripts\activate
 ```
 For Mac/Linux users:
 ```bash
