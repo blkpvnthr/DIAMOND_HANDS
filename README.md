@@ -92,7 +92,7 @@ aerospace.ipynb
 - 📡 **Industry-Specific Insights** (Defense & Aerospace)
 - 💸 **Portfolio Optimization** (Sharpe Ratio & Risk Models)
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 |   Technology       |  Description                   |
 |--------------------|----------------------------------|
@@ -103,7 +103,7 @@ aerospace.ipynb
 | PyPortfolioOpt 📈  | Portfolio optimization           |
 | Jupyter 📚         | Interactive notebook interface   |
 
-## 👨‍💻 Authors
+## Authors
 
 Eduardo Paz<br>
 Asmaa Abdul-Amin<br>
