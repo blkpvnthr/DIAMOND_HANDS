@@ -2,13 +2,13 @@
 
 ![Stock Analysis](image/stock.gif)
 
-## 🚀 Project Goal
+## Project Goal
 Identify **resilient, high-growth stocks** within the **Aerospace & Defense industry** using **data-driven financial analysis**.
 We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **healthy Gross Margins**, and **rising trading volumes**.
 
 
 
-## 📂 Project Overview
+## Project Overview &nbsp; 📂
 This repository contains our **CMSC206 Group Project**, which analyzes **aerospace and defense stock data** to uncover **high-performing assets**.
 
 We use **Python** along with libraries like **Pandas**, **Matplotlib**, **YFinance**, and **PyPortfolioOpt** to:<br>
