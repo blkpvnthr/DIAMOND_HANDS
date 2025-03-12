@@ -15,7 +15,7 @@ We use **Python** along with libraries like **Pandas**, **Matplotlib**, **YFinan
 ✅ Extract and clean data<br>
 ✅ Perform financial filtering<br>
 ✅ Visualize stock trends<br>
-✅ Optimize portfolio allocations<br>
+✅ Optimize portfolio allocations --> this is dependent upon what you guys decide you wanna do?<br>
 
 ## Quick Start &nbsp; 🏁
 
