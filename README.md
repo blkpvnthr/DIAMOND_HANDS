@@ -63,14 +63,14 @@ pip install -r requirements.txt
 <hr>
 
 ### 4️⃣ &nbsp; Activate the Virtual Environment
-Always activate the project-env virtual environment before running any commands or notebooks.
-For Windows users:
-```bash
-project-env\Scripts\activate
-```
+Always activate the project-env virtual environment before running any commands or notebooks.<br>
 For Mac/Linux users:
 ```bash
 source project-env/bin/activate
+```
+For Windows users:
+```bash
+project-env\Scripts\activate
 ```
 <hr>
 
