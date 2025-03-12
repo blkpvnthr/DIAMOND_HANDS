@@ -87,9 +87,9 @@ aerospace.ipynb
 ## 🔹 Features:
 
 - 📊 **Stock Data Extraction** from Google Sheets & CSV
-- 📈 **Price Trend Analysis** (SMA, Volume Changes)
 - 🔎 **Financial Health Filtering** (FCF, Gross Margins)
 - 📡 **Industry-Specific Insights** (Defense & Aerospace)
+- 📈 **Price Trend Analysis** (SMA, Volume Changes) ---> This is yet to be implemented.
 - 💸 **Portfolio Optimization** (Sharpe Ratio & Risk Models) ---> This is yet to be implemented.
 
 ## Technologies Used
