@@ -51,6 +51,8 @@ python env_setup.py
     - Create a virtual environment called project-env
     - Install all necessary dependencies
 
+# OR
+
 #### &nbsp;   ✅ Option B: Manual Setup
 ```bash
 python -m venv project-env
