@@ -37,6 +37,7 @@ If you don't have Python 3.8 or higher, install the latest version from the <a h
 During installation, make sure to check the box that says “Add Python to PATH”.
 Use python and pip commands in Command Prompt (cmd.exe) or PowerShell.</em>
 <hr>
+
 ### 3️⃣ &nbsp;  Environment Setup
 You can automatically set up the environment or do it manually.
 
