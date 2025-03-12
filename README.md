@@ -32,7 +32,6 @@ cd Slight-Dynamic
 ```bash
 python --version
 ```
-### 3️⃣ &nbsp;  Install Dependencies
 If you don't have Python 3.8 or higher, install the latest version from the <a href="https://www.python.org/downloads/">Python download</a> page.
 
 <em><b>📝 Windows Users❗</b>:
@@ -58,7 +57,7 @@ python install -r requirements.txt
 ```
 This will install all the necessary packages provided you have Python installed.
 
-### 5️⃣ &nbsp; Run Jupyter Notebook
+### 4️⃣ &nbsp; Run Jupyter Notebook
 Once your virtual environment is active, start Jupyter:
 ```bash
 jupyter notebook
