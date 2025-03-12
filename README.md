@@ -96,8 +96,14 @@ Alhassane Moulaye<br>
 ## ⚙️ Additional Notes
 Make sure you're using Python 3.8+ for compatibility.
 Always activate the project-env virtual environment before running any commands or notebooks.
-For Windows users: Use cmd.exe or PowerShell and remember to activate with project-env\Scripts\activate.
-For Mac/Linux users: Use source project-env/bin/activate.
+For Windows users:
+```bash
+project-env\Scripts\activate.
+```
+For Mac/Linux users:
+```bash
+source project-env/bin/activate
+```
 
 ## License
 📜 MIT License
