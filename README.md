@@ -42,21 +42,21 @@ Use python and pip commands in Command Prompt (cmd.exe) or PowerShell.</em>
 You can automatically set up the environment or do it manually.
 
 #### &nbsp;  ✅ Option A: Automatic Setup
-Run the env_setup.py script (works on both Windows & Mac/Linux):
+&nbsp; Run the env_setup.py script (works on both Windows & Mac/Linux):
 ```bash
 python env_setup.py
 ```
-This script will:
-- Check Python version
-- Create a virtual environment called project-env
-- Install all necessary dependencies
+&nbsp; This script will:
+    - Check Python version
+    - Create a virtual environment called project-env
+    - Install all necessary dependencies
 
 #### &nbsp;   ✅ Option B: Manual Setup
 ```bash
 python -m venv project-env
 pip install -r requirements.txt
 ```
-This will install all the necessary packages provided you have Python installed.
+&nbsp; This will install all the necessary packages provided you have Python installed.
 
 ### 4️⃣ &nbsp; Activate the Virtual Environment
 Always activate the project-env virtual environment before running any commands or notebooks.
