@@ -26,7 +26,7 @@ We use **Python** along with libraries like **Pandas**, **Matplotlib**, **YFinan
 git clone https://github.com/blkpvnthr/Slight-Dynamic.git
 cd Slight-Dynamic
 ```
-
+<hr>
 ### 2️⃣  &nbsp; Python Version Requirement
 ⚠️ This project requires Python 3.8+. Verify your Python version:
 ```bash
@@ -37,7 +37,7 @@ If you don't have Python 3.8 or higher, install the latest version from the <a h
 <em><b>📝 Windows Users❗</b>:
 During installation, make sure to check the box that says “Add Python to PATH”.
 Use python and pip commands in Command Prompt (cmd.exe) or PowerShell.</em>
-
+<hr>
 ### 3️⃣ &nbsp;  Environment Setup
 You can automatically set up the environment or do it manually.
 
@@ -72,8 +72,9 @@ For Mac/Linux users:
 ```bash
 source project-env/bin/activate
 ```
+<hr>
 
-### 4️⃣ &nbsp; Run Jupyter Notebook
+### 5️⃣ &nbsp; Run Jupyter Notebook
 Once your virtual environment is active, start Jupyter:
 ```bash
 jupyter notebook
