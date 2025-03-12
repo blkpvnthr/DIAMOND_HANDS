@@ -93,8 +93,6 @@ Parker Link<br>
 Ahmed Sachit<br>
 Alhassane Moulaye<br>
 
->>>>>>> 87d6728 (updated environment handling and README)
-
 ## ⚙️ Additional Notes
 Make sure you're using Python 3.8+ for compatibility.
 Always activate the project-env virtual environment before running any commands or notebooks.
