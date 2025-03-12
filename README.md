@@ -8,7 +8,7 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
 
 
 
-## Project Overview &nbsp; 📂
+## Project Overview
 This repository contains our **CMSC206 Group Project**, which analyzes **aerospace and defense stock data** to uncover **high-performing assets**.
 
 We use **Python** along with libraries like **Pandas**, **Matplotlib**, **YFinance**, and **PyPortfolioOpt** to:<br>
