@@ -1,4 +1,4 @@
-# 📊CMSC206 Group Project: Aerospace & Defense Stock Analysis
+<h1> 📊CMSC206 Group Project:<br> Aerospace & Defense Stock Analysis</h1>
 
 ![Stock Analysis](image/stock.gif)
 
