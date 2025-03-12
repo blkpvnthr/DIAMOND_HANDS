@@ -25,6 +25,7 @@ git clone https://github.com/blkpvnthr/Slight-Dynamic.git
 cd Slight-Dynamic
 ```
 <hr>
+
 ### 2️⃣  &nbsp; Python Version Requirement
 ⚠️ This project requires Python 3.8+. Verify your Python version:
 ```bash
