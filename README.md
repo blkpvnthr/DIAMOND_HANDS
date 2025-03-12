@@ -87,7 +87,13 @@ Jupyter 📒	Interactive notebook interface
 
 ## 👨‍💻 Authors
 
-<ul style="list-style: none;"><li>Eduardo Paz</li><li>Asmaa Abdul-Amin</li><li>Parker Link</li><li>Ahmed Sachit</li><li>Alhassane Moulaye</li></ul>
+Eduardo Paz<br>
+Asmaa Abdul-Amin<br>
+Parker Link<br>
+Ahmed Sachit<br>
+Alhassane Moulaye<br>
+
+>>>>>>> 87d6728 (updated environment handling and README)
 
 ## ⚙️ Additional Notes
 Make sure you're using Python 3.8+ for compatibility.
