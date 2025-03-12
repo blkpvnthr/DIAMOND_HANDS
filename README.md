@@ -90,7 +90,7 @@ aerospace.ipynb
 - 📈 **Price Trend Analysis** (SMA, Volume Changes)
 - 🔎 **Financial Health Filtering** (FCF, Gross Margins)
 - 📡 **Industry-Specific Insights** (Defense & Aerospace)
-- 💸 **Portfolio Optimization** (Sharpe Ratio & Risk Models)
+- 💸 **Portfolio Optimization** (Sharpe Ratio & Risk Models) ---> This is yet to be implemented.
 
 ## Technologies Used
 
