@@ -86,7 +86,8 @@ PyPortfolioOpt 📈	Portfolio optimization
 Jupyter 📒	Interactive notebook interface
 
 ## 👨‍💻 Authors
-<ul style="list-style: none; padding: 1;">
+
+<ul style="list-style: none;">
   <li>Eduardo Paz</li>
   <li>Asmaa Abdul-Amin</li>
   <li>Parker Link</li>
