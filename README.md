@@ -21,25 +21,25 @@ We use **Python** along with libraries like **Pandas**, **Matplotlib**, **YFinan
 
 ## Quick Start
 
-### 1️⃣ &nbps; Clone the Repository
+### 1️⃣   Clone the Repository
 ```bash
 git clone https://github.com/blkpvnthr/Slight-Dynamic.git
 cd Slight-Dynamic
 ```
 
-### 2️⃣ Python Version Requirement
+### 2️⃣   Python Version Requirement
 ⚠️ This project requires Python 3.8+. Verify your Python version:
 ```bash
 python --version
 ```
-### 3️⃣ Install Dependencies
+### 3️⃣   Install Dependencies
 If you don't have Python 3.8 or higher, install the latest version from the <a href="https://www.python.org/downloads/">Python download</a> page.
 
 <em><b>📝 Windows Users❗</b>:
 During installation, make sure to check the box that says “Add Python to PATH”.
 Use python and pip commands in Command Prompt (cmd.exe) or PowerShell.</em>
 
-### 3️⃣ Environment Setup
+### 3️⃣   Environment Setup
 You can automatically set up the environment or do it manually.
 
 #### ✅ Option A: Automatic Setup
