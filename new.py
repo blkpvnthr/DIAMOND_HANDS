@@ -1,1 +1,0 @@
-test = pd.read_csv('parker.csv')
