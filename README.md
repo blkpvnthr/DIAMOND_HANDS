@@ -15,7 +15,7 @@ On Windows:
 ```bash
 open https://git-scm.com
 ```
-On macOS open terminal then:
+On macOS open terminal then
 Use Homebrew:
 ```bash
 brew install git
