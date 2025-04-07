@@ -9,29 +9,27 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
 ## 📘 Git Push & Pull Instructions
 
 ## 🧭 Prerequisites
-- Git is installed on your machine and run the installer.
-  
-On Windows:
+1. Git is installed on your machine and run the installer. 
+- On Windows:
+  ```bash
+  open https://git-scm.com
+  ```
+- On macOS open terminal then use Homebrew:
+  ```bash
+  brew install git
+  ```
+2. Then run this to get all the latest project files:
+ ```bash
+  git clone https://github.com/blkpvnthr/Slight-Dynamic.git
+  ```
+3. Then make sure you're inside the project directory in your terminal.
 ```bash
-open https://git-scm.com
-```
-On macOS open terminal then
-Use Homebrew:
+  cd Slight-Dynamic
+  ```
+4. Then type this to see all the project files at once in the terminal.
 ```bash
-brew install git
-```
-- Then run this to get all the latest project files:
-```bash
-git clone https://github.com/blkpvnthr/Slight-Dynamic.git
-```
-- Then make sure you're inside the project directory in your terminal.
-```bash
-cd Slight-Dynamic
-```
-- Then type this to see all the project files at once in the terminal.
-```bash
-ls
-```
+  ls
+  ```
 
 ---
 
