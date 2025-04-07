@@ -60,7 +60,7 @@ Or if you created a specific folder you only want to push.. (be sure to add the 
 ```bash
 git add <foldername/*>
 ```
-be sure to chech the status before you commit and before you push
+be sure to check the status before you commit and before you push
 ```bash
 git status
 ```
@@ -72,9 +72,9 @@ Then you can push your changes
 ```bash
 git push
 ```
-
+Then check the status again to be sure all conflicts are resolved
 ```bash
-git pull origin main
+git status
 ```
 Here’s the completed version in Markdown, including your sentence and continuation:
 
