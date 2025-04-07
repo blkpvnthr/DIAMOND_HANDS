@@ -10,6 +10,7 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
 
 ## 🧭 Prerequisites
 - Git is installed on your machine and run the installer.
+  
 On Windows:
 ```bash
 open https://git-scm.com
