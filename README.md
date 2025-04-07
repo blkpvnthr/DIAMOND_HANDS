@@ -56,9 +56,9 @@ Or you can add them all at once like this:
 ```bash
 git add .
 ```
-Or if you created a specific folder you only want to push
+Or if you created a specific folder you only want to push.. (be sure to add the after the folder name'/*')
 ```bash
-git add <foldername/>
+git add <foldername/*>
 ```
 be sure to chech the status before you commit and before you push
 ```bash
