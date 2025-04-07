@@ -76,15 +76,6 @@ Then check the status again to be sure all conflicts are resolved
 ```bash
 git status
 ```
-Here’s the completed version in Markdown, including your sentence and continuation:
-
-markdown
-Copy
-Edit
-## 🔄 Pulling Changes (Get Latest from Remote)
-
-Use this when you want to update your local copy with the latest changes from the remote repository.
-
 ## Project Overview
 This repository contains our **CMSC206 Group Project**, which analyzes **aerospace and defense stock data** to uncover **high-performing assets**.
 
