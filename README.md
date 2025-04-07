@@ -10,10 +10,13 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
 
 ## 🧭 Prerequisites
 - Git is installed on your machine.
+```bash
+pip install git
+```
+- You’ve initialized a Git repository (`git init`) or cloned one (`git clone <repo-url>`).
   ```bash
   git clone https://github.com/blkpvnthr/Slight-Dynamic.git
   ```
-- You’ve initialized a Git repository (`git init`) or cloned one (`git clone <repo-url>`).
 - You're inside the project directory in your terminal.
 
 ---
