@@ -17,7 +17,7 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
 
 ## 🔄 1. Pulling Changes (Get Latest from Remote)
 
-Use this when you want to update your local copy with the latest changes from the remote repository.
+Use this when you want to update your local copy with the latest changes from the remote repository. This will show you all your local changes.
 ```bash
 git status
 ```
