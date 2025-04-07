@@ -60,6 +60,8 @@ Or if you created a specific folder you only want to push.. (be sure to add the 
 ```bash
 git add <foldername/*>
 ```
+## Pushing Your Contributions
+
 be sure to check the status before you commit and before you push
 ```bash
 git status
