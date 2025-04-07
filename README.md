@@ -1,4 +1,4 @@
-<h1>DIAMOND HANDS - Stock Analysis 📊</h1>
+<h1>DIAMOND HANDS - Stock Analysis 💎</h1>
 
 ![Stock Analysis](image/stock.gif)
 
