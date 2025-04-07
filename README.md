@@ -17,7 +17,9 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
 
 ## 🔄 1. Pulling Changes (Get Latest from Remote)
 
-Use this when you want to update your local copy with the latest changes from the remote repository. This will show you all your local changes.
+Use this when you want to update your local copy with the latest changes from the remote repository:
+
+This will show you all your local changes.
 ```bash
 git status
 ```
@@ -25,7 +27,7 @@ if you have changes you havent pushed yet you need to stash them first
 ```bash
 git stash
 ```
-then pull
+Then pull the latest changes.
 ```bash
 git pull 
 ```
@@ -33,6 +35,7 @@ Once the pull is complete, you can reapply your stashed changes:
 ```bash
 git stash pop
 ```
+⚠️ If there are conflicts after stash pop, Git will ask you to resolve them manually.
 
 ```bash
 git pull origin main
