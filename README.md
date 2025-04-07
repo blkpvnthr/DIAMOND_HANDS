@@ -18,7 +18,7 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
   ```bash
   brew install git
   ```
-2. Then run this to get all the latest project files:
+2. Once you have git, run this to get all the latest project files:
  ```bash
   git clone https://github.com/blkpvnthr/Slight-Dynamic.git
   ```
@@ -26,7 +26,7 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
 ```bash
   cd Slight-Dynamic
   ```
-4. Then type this to see all the project files at once in the terminal.
+4. Then type this to see all the project files at once in the terminal. That will allow you to see which directories (folders) you can switch to.
 ```bash
   ls
   ```
