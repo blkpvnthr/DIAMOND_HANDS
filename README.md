@@ -1,4 +1,5 @@
 <h1>DIAMOND HANDS - Stock Analysis 💎</h1>
+Diamond hands refers to knowing what you bought and why and believing in that enough where price swings and macro volatility don't phase you.
 
 ![Stock Analysis](image/stock.gif)
 
