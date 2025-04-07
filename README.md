@@ -13,11 +13,14 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
 ```bash
 pip install git
 ```
-- You’ve initialized a Git repository (`git init`) or cloned one (`git clone <repo-url>`).
+- Then run this to get all the latest project files:
   ```bash
   git clone https://github.com/blkpvnthr/Slight-Dynamic.git
   ```
-- You're inside the project directory in your terminal.
+- Then make sure you're inside the project directory in your terminal.
+```bash
+cd Slight-Dynamic
+```
 
 ---
 
