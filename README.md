@@ -6,6 +6,22 @@
 Identify **resilient, high-growth stocks** within the **Aerospace & Defense industry** using **data-driven financial analysis**.
 We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **healthy Gross Margins**, and **rising trading volumes**.
 
+## 📘 Git Push & Pull Instructions
+
+## 🧭 Prerequisites
+- Git is installed on your machine.
+- You’ve initialized a Git repository (`git init`) or cloned one (`git clone <repo-url>`).
+- You're inside the project directory in your terminal.
+
+---
+
+## 🔄 1. Pulling Changes (Get Latest from Remote)
+
+Use this when you want to update your local copy with the latest changes from the remote repository.
+
+```bash
+git pull origin <branch-name>
+```
 
 
 ## Project Overview
