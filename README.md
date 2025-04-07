@@ -21,9 +21,6 @@ Use this when you want to update your local copy with the latest changes from th
 ```bash
 git status
 ```
-```bash
-git pull
-```
 if you have changes you havent pushed yet you need to stash them first 
 ```bash
 git stash
