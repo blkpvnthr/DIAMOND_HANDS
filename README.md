@@ -21,6 +21,10 @@ pip install git
 ```bash
 cd Slight-Dynamic
 ```
+- Then type this to see all the project files at once in the terminal.
+```bash
+ls
+```
 
 ---
 
