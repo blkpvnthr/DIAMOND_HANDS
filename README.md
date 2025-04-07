@@ -37,6 +37,31 @@ git stash pop
 ```
 ⚠️ If there are conflicts after stash pop, Git will ask you to resolve them manually.
 
+## 🛠️ To resolve merge conflicts:
+Open each conflicted file — Git will mark the conflicting sections like this:
+```bash
+<<<<<<< HEAD
+Your local changes
+=======
+Incoming changes from the branch
+>>>>>>> branch-name
+```
+Manually edit the file to keep the correct code and remove the conflict markers (<<<<<<<, =======, >>>>>>>)...
+
+After fixing all conflicts, stage the resolved files. You can enter them one by one like this:
+```bash
+git add <filename>
+```
+Or you can add them all at once like this:
+```bash
+git add .
+```
+
+Then commit the merge:
+```bash
+git commit -m "Resolved merge conflicts after stash pop"
+```
+
 ```bash
 git pull origin main
 ```
