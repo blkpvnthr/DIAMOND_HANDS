@@ -56,10 +56,17 @@ Or you can add them all at once like this:
 ```bash
 git add .
 ```
-
+be sure to chech the status before you commit and before you push
+```bash
+git status
+```
 Then commit the merge:
 ```bash
 git commit -m "Resolved merge conflicts after stash pop"
+```
+Then you can push your changes
+```bash
+git push
 ```
 
 ```bash
@@ -73,29 +80,6 @@ Edit
 ## 🔄 Pulling Changes (Get Latest from Remote)
 
 Use this when you want to update your local copy with the latest changes from the remote repository.
-
-```bash
-git status
-Check if you have uncommitted changes. If everything is clean, you can proceed:
-
-bash
-Copy
-Edit
-git pull
-If you have changes you haven’t pushed yet, you need to stash them first:
-
-bash
-Copy
-Edit
-git stash
-Then pull the latest changes:
-
-bash
-Copy
-Edit
-git pull
-
-⚠️ If there are conflicts after stash pop, Git will ask you to resolve them manually.
 
 ## Project Overview
 This repository contains our **CMSC206 Group Project**, which analyzes **aerospace and defense stock data** to uncover **high-performing assets**.
