@@ -18,11 +18,59 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
 ## 🔄 1. Pulling Changes (Get Latest from Remote)
 
 Use this when you want to update your local copy with the latest changes from the remote repository.
-
 ```bash
-git pull origin <branch-name>
+git status
+```
+```bash
+git pull
+```
+if you have changes you havent pushed yet you need to stash them first 
+```bash
+git stash
+```
+then pull
+```bash
+git pull 
+```
+Once the pull is complete, you can reapply your stashed changes:
+```bash
+git stash pop
 ```
 
+```bash
+git pull origin main
+```
+Here’s the completed version in Markdown, including your sentence and continuation:
+
+markdown
+Copy
+Edit
+## 🔄 Pulling Changes (Get Latest from Remote)
+
+Use this when you want to update your local copy with the latest changes from the remote repository.
+
+```bash
+git status
+Check if you have uncommitted changes. If everything is clean, you can proceed:
+
+bash
+Copy
+Edit
+git pull
+If you have changes you haven’t pushed yet, you need to stash them first:
+
+bash
+Copy
+Edit
+git stash
+Then pull the latest changes:
+
+bash
+Copy
+Edit
+git pull
+
+⚠️ If there are conflicts after stash pop, Git will ask you to resolve them manually.
 
 ## Project Overview
 This repository contains our **CMSC206 Group Project**, which analyzes **aerospace and defense stock data** to uncover **high-performing assets**.
