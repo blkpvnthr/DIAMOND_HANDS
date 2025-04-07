@@ -10,13 +10,17 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
 
 ## 🧭 Prerequisites
 - Git is installed on your machine.
+On Windows:
+Download from <a href='https://git-scm.com'>git.com</a> and run the installer.
+On macOS:
+Use Homebrew:
 ```bash
-pip install git
+brew install git
 ```
 - Then run this to get all the latest project files:
-  ```bash
-  git clone https://github.com/blkpvnthr/Slight-Dynamic.git
-  ```
+```bash
+git clone https://github.com/blkpvnthr/Slight-Dynamic.git
+```
 - Then make sure you're inside the project directory in your terminal.
 ```bash
 cd Slight-Dynamic
