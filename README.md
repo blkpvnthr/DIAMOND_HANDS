@@ -9,7 +9,7 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
 ## 📘 Git Push & Pull Instructions
 
 ## 🧭 Prerequisites
-- Git is installed on your machine and run the installer.<br>
+- Git is installed on your machine and run the installer.
 On Windows:
 ```bash
 open https://git-scm.com
