@@ -46,8 +46,10 @@ Your local changes
 Incoming changes from the branch
 >>>>>>> branch-name
 ```
-Manually edit the file to keep the correct code and remove the conflict markers (<<<<<<<, =======, >>>>>>>)...
-
+Manually edit the file to keep the correct code and remove the conflict markers (<<<<<<<, =======, >>>>>>>) Then chech the status again...
+```bash
+git status
+```
 After fixing all conflicts, stage the resolved files. You can enter them one by one like this:
 ```bash
 git add <filename>
