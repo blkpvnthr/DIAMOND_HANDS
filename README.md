@@ -194,7 +194,6 @@ aerospace.ipynb
 
 ## Authors
 
-Eduardo Paz<br>
 Asmaa Abdul-Amin<br>
 Parker Link<br>
 Ahmed Sachit<br>
