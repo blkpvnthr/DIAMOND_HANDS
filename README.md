@@ -25,7 +25,7 @@ We focus on stocks with **positive momentum**, **strong Free Cash Flow**, **heal
   ```
 3. Then make sure you're inside the project directory in your terminal.
 ```bash
-  cd Slight-Dynamic
+  cd DIAMOND_HANDS
   ```
 4. Then type this to see all the project files at once in the terminal. That will allow you to see which directories (folders) you can switch to.
 ```bash
