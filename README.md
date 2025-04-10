@@ -111,7 +111,7 @@ We use **Python** along with libraries like **Pandas**, **Matplotlib**, **YFinan
 ### 1️⃣  &nbsp; Clone the Repository
 ```bash
 git clone https://github.com/blkpvnthr/Slight-Dynamic.git
-cd Slight-Dynamic
+cd DIAMOND_HANDS
 ```
 <hr>
 
