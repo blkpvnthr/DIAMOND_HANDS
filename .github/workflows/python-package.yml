@@ -1,0 +1,38 @@
+name: CMSC206 Environment Setup
+
+on:
+  workflow_dispatch:
+
+jobs:
+  setup-environment:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Create virtual environment
+        run: |
+          python -m venv project-env
+          source project-env/bin/activate
+          echo "✅ Virtual environment created."
+
+      - name: Install dependencies
+        run: |
+          source project-env/bin/activate
+          python -m pip install --upgrade pip
+          pip install pandas numpy matplotlib yfinance PyPortfolioOpt jupyter
+          echo "✅ All libraries installed."
+
+      - name: Verify installation
+        run: |
+          source project-env/bin/activate
+          python -c "import pandas, numpy, matplotlib, yfinance, pypfopt, jupyter; print('✅ All imports succeeded.')"
+
+      - name: Done
+        run: echo "Environment setup complete. Activate the venv with 'source project-env/bin/activate' and run your notebook."
